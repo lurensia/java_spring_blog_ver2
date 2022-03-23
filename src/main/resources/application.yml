@@ -4,6 +4,8 @@ server:
     context-path: /
     encoding:
       charset: utf-8
+    ession:
+      timeout: 30
 
 spring:
   mustache:
