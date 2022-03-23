@@ -10,4 +10,5 @@ import site.metacoding.blogv2.service.PostService;
 @RestController
 public class PostApiController {
     private final PostService postService;
+
 }
